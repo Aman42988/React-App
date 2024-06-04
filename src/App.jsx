@@ -1,3 +1,4 @@
+//new
 import React from 'react';
 import LoginHome from 'views/loginHome/LoginHome';
 
